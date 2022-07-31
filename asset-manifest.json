@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-animated--login-register-passward-strength/static/css/main.4fd1cd41.chunk.css",
+    "main.js": "/react-animated--login-register-passward-strength/static/js/main.bf309a3c.chunk.js",
+    "main.js.map": "/react-animated--login-register-passward-strength/static/js/main.bf309a3c.chunk.js.map",
+    "runtime-main.js": "/react-animated--login-register-passward-strength/static/js/runtime-main.1045120f.js",
+    "runtime-main.js.map": "/react-animated--login-register-passward-strength/static/js/runtime-main.1045120f.js.map",
+    "static/js/2.bb8e9aac.chunk.js": "/react-animated--login-register-passward-strength/static/js/2.bb8e9aac.chunk.js",
+    "static/js/2.bb8e9aac.chunk.js.map": "/react-animated--login-register-passward-strength/static/js/2.bb8e9aac.chunk.js.map",
+    "index.html": "/react-animated--login-register-passward-strength/index.html",
+    "static/css/main.4fd1cd41.chunk.css.map": "/react-animated--login-register-passward-strength/static/css/main.4fd1cd41.chunk.css.map",
+    "static/js/2.bb8e9aac.chunk.js.LICENSE.txt": "/react-animated--login-register-passward-strength/static/js/2.bb8e9aac.chunk.js.LICENSE.txt",
+    "static/media/forgot.0ffd5c8d.svg": "/react-animated--login-register-passward-strength/static/media/forgot.0ffd5c8d.svg",
+    "static/media/login.80966d41.svg": "/react-animated--login-register-passward-strength/static/media/login.80966d41.svg",
+    "static/media/register.f1f0c620.svg": "/react-animated--login-register-passward-strength/static/media/register.f1f0c620.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1045120f.js",
+    "static/js/2.bb8e9aac.chunk.js",
+    "static/css/main.4fd1cd41.chunk.css",
+    "static/js/main.bf309a3c.chunk.js"
+  ]
+}
